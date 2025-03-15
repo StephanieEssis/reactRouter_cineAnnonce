@@ -2,9 +2,9 @@
 const movies = [
     {
       id: 1,
-      title: "Un prince à New York (1988)",
-      description: "Dans la riche nation africaine de Zamunda, le prince héritier Akeem Joffer se lasse de son style de vie choyé à son 21e anniversaire et souhaite en faire plus par lui-même. Lorsque ses parents, le roi Jaffe et la reine Aoleon, lui présentent une future mariée arrangée, Akeem passe à l'action.",
-posterURL:  "./assets/casa.jpg", // Utilisation de l'import
+      title: "Kirikou au village(2012)",
+      description:"Les nouvelles aventures de Kirikou nous plongent au cœur du village et de la vie des villageois. La construction du toit d'une case, les contes d'une griotte à la tombée de la nuit, la rencontre avec des touaregs, le pouvoir de la musique.",
+      posterURL:  "./assets/kirikou.jpeg", // Utilisation de l'import
       rating: 4.8,
 
     },
@@ -12,7 +12,7 @@ posterURL:  "./assets/casa.jpg", // Utilisation de l'import
       id: 2,
       title: "Mufasa (2017)",
       description: "Rafiki raconte à la jeune lionne Kiara, la fille de Simba et Nala, la légende de Mufasa. Il est aidé en cela par Timon et Pumbaa, dont les formules choc sont désormais bien connues. Relatée sous forme de flashbacks, l'histoire de Mufasa est celle d'un lionceau orphelin, seul et désemparé qui, un jour, fait la connaissance du sympathique Taka, héritier d'une lignée royale.",
-posterURL:"./assets/muf.jpeg",
+posterURL:"./assets/king.jpeg",
       rating: 4.9,
 
     },
